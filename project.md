@@ -1,5 +1,7 @@
 ---
 layout: default
 title: Projects
+permalink: /projects/
 ---
-The first project is to try using github to collaborat with others for representatives.
+
+The first project is to try using GitHub to collaborate with others for representatives.
