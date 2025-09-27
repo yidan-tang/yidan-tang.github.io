@@ -12,4 +12,5 @@ Design is about creating better experiences for people — in any space, at any 
 
 ---
 
-👉 [See my projects](./project.md)
+[See my projects →](/projects/)
+
